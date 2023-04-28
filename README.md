@@ -14,6 +14,7 @@
 ## 🔗 Links
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ummehabibaewu90/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ummehabibaewu90/" height="30" width="40" /></a>
+<a href="https://join.skype.com/invite/wZVL0ENjYudY" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174869.png" alt="https://join.skype.com/invite/wZVL0ENjYudY" height="40" width="40" /></a>
 </p>
 
 ## 🚀 Skills
