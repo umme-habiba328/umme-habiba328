@@ -1,3 +1,4 @@
+<img src="https://miro.medium.com/v2/resize:fit:720/1*DhDTs5WmZdXHfjj6XcrzeA.gif" alt="banner" width="13000" height="500">
 <h1 align="center">Hi 👋, I'm Umme Habiba</h1>
 <h3 align="center">A passionate Trainee Software Engineer (DevOps & Cloud) from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
