@@ -2,10 +2,9 @@
 <h3 align="center">A passionate Trainee Software Engineer (DevOps & Cloud) from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umme-habiba328&label=Profile%20views&color=0e75b6&style=flat" alt="umme-habiba328" /> </p>
 
 ## 👨🏽‍💻 What I'm working on
-- 🔭 I’m currently working on **BJIT Academy as a Trainee Software Engineer (DevOps & Cloud). As a Trainee Software Engineer, I'm excited about adopting DevOps practices to create scalable and effective cloud apps. I'm always researching and learning new applications to advance my knowledge.
+- 🔭 I’m currently working on **BJIT Academy as a Trainee Software Engineer (DevOps & Cloud)**. As a Trainee Software Engineer, I'm excited about adopting DevOps practices to create scalable and effective cloud apps. I'm always researching and learning new applications to advance my knowledge.
 
 ## 🧠 What I'm currently learning
 - 🌱 I’m currently learning **CI/CD Pipeline, Docker, Ansible, AWS, Cloud infrastructure** to to enhance my development abilities and stay current with the evolving technology.
@@ -35,10 +34,8 @@
 - Published a paper in International Conference on Computer and Information Technology held by IEEE.
 - Awarded Medha Lalon Scholarship in undergraduate life by East West University.
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umme-habiba328&show_icons=true&locale=en&layout=compact" alt="umme-habiba328" /></p>
-
+## 📈 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umme-habiba328&label=Profile%20views&color=0e75b6&style=flat" alt="umme-habiba328" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umme-habiba328&show_icons=true&locale=en" alt="umme-habiba328" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umme-habiba328&" alt="umme-habiba328" /></p>
 
