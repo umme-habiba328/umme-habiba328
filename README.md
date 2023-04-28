@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **BJIT Academy as a Trainee Software Engineer (DevOps & Cloud). As a Trainee Software Engineer, I'm excited about adopting DevOps practices to create scalable and effective cloud apps. I'm always researching and learning new applications to advance my knowledge.
 
 ## 🧠 What I'm currently learning
-- 🌱 I’m currently learning **CI/CD Pipeline, Docker, Ansible, AWS, Cloud infrastructure to to enhance my development abilities and stay current with the evolving technology.**
+- 🌱 I’m currently learning **CI/CD Pipeline, Docker, Ansible, AWS, Cloud infrastructure** to to enhance my development abilities and stay current with the evolving technology.
 
 ## 📫 How to reach me **umme.habiba@bjitacademy.com**
 
