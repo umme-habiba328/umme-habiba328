@@ -34,6 +34,8 @@ I’m currently working on **BJIT Academy as a Trainee Software Engineer (DevOps
  
 ## 🎓 Education
 - East West University, [B.Sc.], [Information and Communications Engineering]
+- Viqarunnisa Noon College, [HSC], Science
+- Viqarunnisa Noon School & College, [SSC], Science
 
 ## 🏆 Achievements
 - Published a paper in International Conference on Computer and Information Technology held by IEEE.
