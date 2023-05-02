@@ -2,12 +2,10 @@
   <img src="https://img.freepik.com/free-vector/hand-drawn-devops-illustration_23-2149388660.jpg?w=2000" alt="MasterHead">
 </p>
 <h1 align="center">Hi 👋, I'm Umme Habiba</h1>
-<h3 align="center">A passionate Trainee Software Engineer (DevOps & Cloud) from Bangladesh.</h3>
+<h3 align="center">Trainee Software Engineer (DevOps & Cloud) from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif">
 
-
-## 👨🏽‍💻 What I'm working on
-- 🔭 I’m currently working on **BJIT Academy as a Trainee Software Engineer (DevOps & Cloud)**. As a Trainee Software Engineer, I'm excited about adopting DevOps practices to create scalable and effective cloud apps. I'm always researching and learning new applications to advance my knowledge.
+I’m currently working on **BJIT Academy as a Trainee Software Engineer (DevOps & Cloud)**. As a Trainee Software Engineer, I'm excited about adopting DevOps practices to create scalable and effective cloud apps. I'm always researching and learning new applications to advance my knowledge.
 
 ## 🧠 What I'm currently learning
 - 🌱 I’m currently learning **CI/CD Pipeline, Docker, Ansible, AWS, Cloud infrastructure** to to enhance my development abilities and stay current with the evolving technology.
@@ -26,6 +24,9 @@
 ## 🌟 Projects
  - Cyber Threat Detection Using Machine Learning Algorithms On Heterogeneous MiniVHS-22 Dataset
  - Cyber Threat Detection Using Machine Learning Algorithms On Heterogeneous VHS-22 Dataset
+ 
+## Publication
+- Cyber Threat Detection Using Machine Learning Algorithms On Heterogeneous MiniVHS-22 Dataset has been published in IEEE Xplore. You can read it [https://ieeexplore.ieee.org/document/10055036](https://ieeexplore.ieee.org/document/10055036).
  
  ## 💻 Work Experience
 - BJIT Academy, [Trainee Software Engineer (DevOps & Cloud)], [April, 2023]
