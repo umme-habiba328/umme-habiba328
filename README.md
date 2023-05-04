@@ -22,7 +22,7 @@ I’m currently working on **BJIT Academy as a Trainee Software Engineer (DevOps
  - Cyber Threat Detection Using Machine Learning Algorithms On Heterogeneous MiniVHS-22 Dataset
  - Cyber Threat Detection Using Machine Learning Algorithms On Heterogeneous VHS-22 Dataset
  
-## Publication
+## 📝 Publication
 - Cyber Threat Detection Using Machine Learning Algorithms On Heterogeneous MiniVHS-22 Dataset has been published in IEEE Xplore. You can read it [https://ieeexplore.ieee.org/document/10055036](https://ieeexplore.ieee.org/document/10055036).
  
  ## 💻 Work Experience
